@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="libs/activation.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang.jar"/>
+	<classpathentry kind="lib" path="libs/gdata-client-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/gdata-client-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/gdata-core-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/gdata-media-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/gdata-youtube-2.0.jar"/>
+	<classpathentry kind="lib" path="libs/gdata-youtube-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="libs/guava.jar"/>
+	<classpathentry kind="lib" path="libs/jsoup.jar"/>
+	<classpathentry kind="lib" path="libs/mail.jar"/>
+	<classpathentry kind="lib" path="libs/servlet-api.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="libs/caster.jar"/>
+	<classpathentry kind="lib" path="libs/java_websocket.jar"/>
+	<classpathentry kind="lib" path="libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/platform-3.5.2.jar"/>
+	<classpathentry kind="lib" path="libs/vlcj-2.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
