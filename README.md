@@ -26,7 +26,7 @@ java -jar chromecastpi.jar 192.168.0.22
 <p>There is a dependency on the <a href="https://github.com/entertailion/Caster">Caster</a> project. The JAR file of that project is included in the libs directory of this project. 
 To create a new JAR file from the Caster project, export that project as a JAR file but don't include any of the files in it's libs directory since they are already part of this project.</p>
 
-<p>Watch this <a href="">video</a> to see the application in action.</p>
+<p>Watch this <a href="http://youtu.be/RpGT8pakATs">video</a> to see the application in action.</p>
 
 <p>Other apps developed by Entertailion:
 <ul>
